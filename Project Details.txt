@@ -1,0 +1,14 @@
+Customer_Churn_Analysis
+Customer Churn Analysis evaluates the rate at which customers discontinue using products or services. This dataset aims to uncover reasons behind customer disengagement and cancellations, which is vital for all companies. Customer cancellations, even mid-month, can affect Monthly Recurring Revenue (MRR). To ensure minimal impact on services and revenue, performing customer churn analysis is crucial. This informs strategies to retain customers effectively.
+
+Key requirements:
+
+Number of customer,Churn and Churn rate.
+Count of Churn by tenure and Churn
+Count of Churn by Dependents and Churn
+Count of Churn by gender and Churn
+Count of Churn by Partner and Churn
+Count of Churn by PaperlessBilling and Churn
+Count of Churn by Total_Service and Churn
+Count of Customer ID by PaymentMethod
+Count of Churn by Contract
